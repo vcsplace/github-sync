@@ -2,7 +2,7 @@
 use strict;
 
 my $host='https://github.com';
-my @projects = @ARGV ? @ARGV : qw/eotect zrepos zscripts zcodebase/;#zmyplace/
+my @projects = @ARGV ? @ARGV : qw/eotect zrepos zscripts zcodebase vcsplace/;#zmyplace/
 
 my %repos;
 
